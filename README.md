@@ -20,3 +20,9 @@ A C++ project that applies core Data Structures and Algorithms concepts to solve
 
 ## How to Run
 Compile and run using any C++ compiler:
+
+**#Project Flow**
+-User inputs clothing data
+-Program stores it using file handling
+-Outfit suggestions generated using searching & filtering
+-Results displayed in terminal
